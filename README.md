@@ -2,7 +2,7 @@
 
 💻 **`Engineering Student @ ENSA Morocco | Networks & Telecommunications | Cybersecurity | Cloud |`**  
 <br><br>
-![](https://github.com/oeisthename/oeisthename/blob/main/github%20banner.png)
+![](https://github.com/oeisthename/oeisthename/blob/main/banner.png)
 
 I’m a Network and Security Engineering Student at ENSA Morocco, passionate about designing, securing, and optimizing communication systems. My interests lie at the intersection of computer networking, cybersecurity, where I aim to turn complex infrastructures into reliable and secure environments.
 
