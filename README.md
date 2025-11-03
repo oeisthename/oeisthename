@@ -11,9 +11,10 @@ I have hands-on experience in Linux system administration, network configuration
 I’m driven by curiosity, structure, and precision, always striving to build efficient, well-documented, and resilient systems. My goal is to grow into a Cybersecurity Engineer or Network Architect, contributing to the design and protection of robust digital infrastructures.
 
 <br><br>
-<a href="https://www.linkedin.com/in/othmane-el-mqiddem/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/othmane-el-mqiddem/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="akd's LinkedIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/oeisthename">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
