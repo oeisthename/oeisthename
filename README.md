@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Othmane El Mqiddem  a.k.a Kairos
 
-🎓 **Engineering Student @ ENSA Morocco**  
+🎓 **`Engineering Student @ ENSA Morocco`**  
 💻 **`Networks & Telecommunications | Cybersecurity | Cloud |`**
 
 I’m a Network and Security Engineering Student at ENSA Morocco, passionate about designing, securing, and optimizing communication systems. My interests lie at the intersection of computer networking, cybersecurity, where I aim to turn complex infrastructures into reliable and secure environments.
