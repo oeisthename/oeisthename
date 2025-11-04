@@ -23,7 +23,9 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
 <a href="https://www.linkedin.com/in/othmane-el-mqiddem/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
+<br>
+<br>
 
-![tryhackme stats](https://raw.githubusercontent.com/oeisthename/oeisthename/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/oeisthename/oeisthename/main/assets/thm_propic.png)
 
 
