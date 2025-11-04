@@ -26,7 +26,8 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
 <br>
 <br>
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Kair0s.png)](https://tryhackme.com/p/Kair0s)
+[![TryHackMe Badge](./thm-badge.svg)](https://tryhackme.com/p/Kair0s)
+
 
 
 
