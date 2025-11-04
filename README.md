@@ -10,15 +10,18 @@ I have hands-on experience in Linux system administration, network configuration
 
 I’m driven by curiosity, structure, and precision, always striving to build efficient, well-documented, and resilient systems. My goal is to grow into a Cybersecurity Engineer or Network Architect, contributing to the design and protection of robust digital infrastructures.
 
-<br><br>
-<a href="https://www.linkedin.com/in/othmane-el-mqiddem/" target="_blank">
-  <img align="left" alt="akd's LinkedIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+## Let’s Connect 
+<a href="https://github.com/oeisthename" target="blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="Github" />
+</a>
+<a href="https://discord.com/users/1087758455470837843" target="blank">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+</a>
+<a href="mailto:othmane.elmqiddem@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/othmane-el-mqiddem/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/oeisthename">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/othman_artwork/">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<br><br>
+
