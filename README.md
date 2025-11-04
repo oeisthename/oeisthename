@@ -26,7 +26,7 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
 <br>
 <br>
 
-![tryhackme stats](https://raw.githubusercontent.com/oeisthename/oeisthename/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/oeisthename/oeisthename/main/assets/thm_propic.png)
 
 
 
