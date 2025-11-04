@@ -24,4 +24,6 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
+![tryhackme stats](https://raw.githubusercontent.com/oeisthename/oeisthename/master/assets/thm_propic.png)
+
 
