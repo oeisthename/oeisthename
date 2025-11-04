@@ -13,13 +13,13 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
 ## Let’s Connect 
 <a href="https://github.com/oeisthename" target="blank">
   <img src="https://skillicons.dev/icons?i=github" alt="Github" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://discord.com/users/1087758455470837843" target="blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="mailto:othmane.elmqiddem@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/othmane-el-mqiddem/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
