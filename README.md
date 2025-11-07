@@ -30,6 +30,17 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
 </a>
 <br>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/oeisthename/oeisthename/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+</div>
+
 ## Skills
 
 ### **Programming Languages**
