@@ -45,11 +45,11 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
   ### **Development Tools & IDEs**
   [![Tools](https://skillicons.dev/icons?i=vscode,pycharm,vim,anaconda,notion&perline=5)](https://skillicons.dev)
 
+  ### **Web Development**
+  [![Web](https://skillicons.dev/icons?i=html,css,js,wordpress&perline=4)](https://skillicons.dev)
+
   ### **Databases**
   [![Databases](https://skillicons.dev/icons?i=mysql,cassandra,elasticsearch&perline=3)](https://skillicons.dev)
-
-  ### **Web Development**
-  [![Web](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
 
   ### **Design & UI**
   [![Design](https://skillicons.dev/icons?i=figma,ps,gtk&perline=3)](https://skillicons.dev)
