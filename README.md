@@ -28,6 +28,35 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
 <a href="https://tryhackme.com/p/Kair0s" target="blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Kair0s.png" alt="Your Image Badge" />
 </a>
+<br>
+
+## Skills
+
+### **Programming Languages**
+[![Programming](https://skillicons.dev/icons?i=py,java,c,bash,powershell,matlab&perline=6)](https://skillicons.dev)
+
+### **Web Development**
+[![Web](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
+
+### **Cloud & DevOps**
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,git,github,gitlab,githubactions&perline=5)](https://skillicons.dev)
+
+### **Databases**
+[![Databases](https://skillicons.dev/icons?i=mysql,cassandra,elasticsearch&perline=3)](https://skillicons.dev)
+
+### **Operating Systems**
+[![OS](https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,kali,windows&perline=6)](https://skillicons.dev)
+
+### **Development Tools & IDEs**
+[![Tools](https://skillicons.dev/icons?i=vscode,pycharm,vim,anaconda,notion&perline=5)](https://skillicons.dev)
+
+### **Design & UI**
+[![Design](https://skillicons.dev/icons?i=figma,ps,gtk&perline=3)](https://skillicons.dev)
+
+### **Hardware & Specialized**
+[![Hardware](https://skillicons.dev/icons?i=arduino,opencv&perline=2)](https://skillicons.dev)
+
+
 
 ## Stats
 ![Kairos's GitHub stats](https://github-readme-stats.vercel.app/api?username=oeisthename&show_icons=true&theme=highcontrast)
