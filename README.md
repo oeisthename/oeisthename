@@ -79,7 +79,7 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
   <br>
   <br>
   <a href="https://tryhackme.com/p/Kair0s" target="blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Kair0s.png" alt="Your Image Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Kair0s.png" alt="Your Image Badge" alt="Your Image Badge" />
   </a>
   <br>
 </div>
