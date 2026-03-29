@@ -68,7 +68,8 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
 
   <a href="https://tryhackme.com/p/Kair0s" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-Kair0s-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
-  </a>&nbsp;&nbsp;
+  </a>
+  <br>
   <a href="https://github.com/oeisthename" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Github" />
   </a>&nbsp;&nbsp;
