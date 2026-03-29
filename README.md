@@ -58,6 +58,8 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
   ### **Hardware & Specialized**
   [![Hardware](https://skillicons.dev/icons?i=arduino,opencv&perline=2)](https://skillicons.dev)
 
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Kair0s-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/Kair0s)
+
 </div>
 
 <br>
@@ -77,7 +79,7 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <br>
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Kair0s-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/Kair0s)
+  
   <br>
 
   <br>
