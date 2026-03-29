@@ -58,30 +58,29 @@ I’m driven by curiosity, structure, and precision, always striving to build ef
   ### **Hardware & Specialized**
   [![Hardware](https://skillicons.dev/icons?i=arduino,opencv&perline=2)](https://skillicons.dev)
 
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Kair0s-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/Kair0s)
+  
 
 </div>
-
 <br>
-<div align=center>
-  
-  <h1 align="center">🔗 Let’s Connect 🔗</h1>
-  <a href="https://github.com/oeisthename" target="blank">
+<div align="center">
+
+  <h1 align="center">🔗 Let's Connect 🔗</h1>
+
+  <a href="https://tryhackme.com/p/Kair0s" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Kair0s-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/oeisthename" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Github" />
   </a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/1087758455470837843" target="blank">
+  <a href="https://discord.com/users/1087758455470837843" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:othmane.elmqiddem@gmail.com" target="blank">
+  <a href="mailto:othmane.elmqiddem@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/othmane-el-mqiddem/" target="blank">
+  <a href="https://www.linkedin.com/in/othmane-el-mqiddem/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <br>
-  
-  <br>
-
   <br>
 </div>
 
